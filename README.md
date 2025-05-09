@@ -27,7 +27,7 @@ Create a bash script that creates a game that is playable by user. At first I wa
 ![Screenshot 2025-05-09 153725](https://github.com/user-attachments/assets/c1e431b5-139f-461e-bd33-cad092c00332)
 
 5. Lastly, I used some feedback Copilot AI gave with specific intructions to still implement the random number selection, but this time how much attack is based off the attack stat of that charcter and how close the user's number was to the randomly generated number. For example, if I guess the random number exactly, it will do the attack stat # + 5 damage to the bosses health, and if I am more than 5 away on my guess it will do attack stat #/4 damage to the bosses health. I put copied the code from my working script and put it into a new one to keep a backup just in case. Also asked for the boss to attack the user after the user attacks, here it suggested a defense stat to all characters which will be subtracted from the attack power from the boss. Below is the final script with two test runs on different characters.<br>
- _See screenshot below (click to enlarge)._
+ _See screenshots below (click to enlarge)._
 
 ![Screenshot 2025-05-09 161503](https://github.com/user-attachments/assets/9f6e6813-81de-4246-99f5-2deafa9492ad)
 ![Screenshot 2025-05-09 161528](https://github.com/user-attachments/assets/3cac844d-111e-4ee4-a488-3c27c83da7c3)
