@@ -1,7 +1,7 @@
 # Bash
 
 ## Objective
-Create a bash script that creates a game that is playable by user. At first I wanted there to be a user vs two bosses with a random number generated that the user has to try and guess, and if they do, that boss is defeated. After making it, I wanted to make it more advanced with starting characters to chose with unique stats each that will effect the game directly. For this more advanced part I utilized AI to try add more to my already working script to include stats like health and attack power against bosses.
+Create a bash script that creates a game that is playable by user. At first I wanted there to be a user vs two bosses with a random number generated that the user has to try and guess, and if they do, that boss is defeated. After making it, I wanted to make it more advanced with starting characters to chose with unique stats each that will effect the game directly. For this more advanced part I utilized AI to try add more to my already working script to include stats like health and attack power.
 
 ## Skills Learned
 - Ability to create bash scripts
