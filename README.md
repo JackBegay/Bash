@@ -18,7 +18,8 @@ Create a bash script that creates a game that is playable by user. At first I wa
  _See screenshot below (click to enlarge)._
 ![Screenshot 2025-05-09 151545](https://github.com/user-attachments/assets/f757a964-af20-474d-8007-154994559b48)
 
-3. Second, I wanted another user to play and make it so they automatically win if they can make it to the second fight regardless of their number guess. Made an elif statement where the user bob defeats the boss, no matter if they chose the right number or secret cheat. See screenshot below (click to enlarge).
+3. Second, I wanted another user to play and make it so they automatically win if they can make it to the second fight regardless of their number guess. Made an elif statement where the user bob defeats the boss, no matter if they chose the right number or secret cheat. <br>
+ _See screenshot below (click to enlarge)._
 ![Screenshot 2025-05-09 151738](https://github.com/user-attachments/assets/168427c6-4018-491f-9029-e097ccba8ddc)
 
 4. Third, I added three different characters for the user to select from before the game begins. I gave each charcter and boss a name, health amount, and attack power. I was having trouble implementing the attack and health into the game and asked copilot for any suggestions. See screenshot below (click to enlarge).
