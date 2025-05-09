@@ -14,7 +14,7 @@ Create a bash script that creates a game that is playable by user. At first I wa
 - Copilot
 
 ## Steps
-1. First, was creating the base of my game with two beasts to fight and a number input for the user to do each fight. I made the first boss pick between 0 or 1 and if the user guesses correct, they move on the next boss which is a number between 0-9. I also added a cheat for the second fight since it is more difficult, by making an or statement where it defeats the boss if I put the secret word, donut.
+1. First, was creating the base of my game with two beasts to fight and a number input for the user to do each fight. I made the first boss pick between 0 or 1 and if the user guesses correct, they move on the next boss which is a number between 0-9. I also added a cheat for the second fight since it is more difficult, by making an or statement where it defeats the boss if I put the secret word, donut.<br>
  _See screenshot below (click to enlarge)._
 ![Screenshot 2025-05-09 151545](https://github.com/user-attachments/assets/f757a964-af20-474d-8007-154994559b48)
 
